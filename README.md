@@ -1,1 +1,1 @@
-# DCS_Lab_MSc_Exam
+# DCS_Lab_QAM_Constellation
